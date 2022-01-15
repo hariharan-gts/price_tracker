@@ -25,7 +25,7 @@ def send_mail():
         server.set_debuglevel(1)
         server.starttls()
         server.ehlo()
-        server.login('tulasihariharan@gmail.com','rudcqeincwvskvjf')
+        server.login('tulasihariharan@gmail.com','###########')
     
         subject="Price fall down!!!"
         body='https://www.flipkart.com/asian-bouncer-01-running-shoes-boys-sports-men-latest-stylish-casual-sneakers-lace-up-lightweight-black-running-walking-gym-trekking-hiking-party/p/itm911b8bb86db5f?pid=SHOGY3G4RB4MTYKP&lid=LSTSHOGY3G4RB4MTYKP4INTBB&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=size'
